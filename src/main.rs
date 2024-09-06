@@ -12,5 +12,5 @@ fn main() {
 
     println!("{}F = {}C", tempIn, f.to_celsisus(tempIn));
     
-    println!("{}C = {}F", tempIn, tempIn = c.to_fahrenheit(tempIn));
+    println!("{}C = {}F", tempIn, c.to_fahrenheit(tempIn));
 }
